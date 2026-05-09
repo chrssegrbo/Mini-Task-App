@@ -44,9 +44,7 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    },
-    "extra": {
-      "router": {}
     }
-  }
+  },
+  "owner": "chrssegrbo"
 }
