@@ -7,7 +7,6 @@
     "icon": "./assets/images/icon.png",
     "scheme": "taskapp",
     "userInterfaceStyle": "automatic",
-    "newArchEnabled": true,
     "ios": {
       "supportsTablet": true
     },
@@ -18,7 +17,6 @@
         "backgroundImage": "./assets/images/android-icon-background.png",
         "monochromeImage": "./assets/images/android-icon-monochrome.png"
       },
-      "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false,
       "package": "com.chrssegrbo.TaskApp"
     },
@@ -48,10 +46,7 @@
       "reactCompiler": true
     },
     "extra": {
-      "router": {},
-      "eas": {
-        "projectId": "d57d3a62-dbb3-4abe-b723-0aadf86ab863"
-      }
+      "router": {}
     }
   }
 }
